@@ -1,0 +1,38 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav {
+    background-color: #E83E8C;
+    min-height: 75px;
+}
+
+.suricatanav {
+    width: 200px;
+}
+
+.machoke {
+    width: 600px;
+}
+
+.textoblanco {
+    color: #FFFFFF;
+}
+
+.mediosdepago {
+    background-color: #17A2B8;
+    width: 100%;
+    height: 170px;
+}
+
+.footer {
+    background-color: #E83E8C;
+    width: 100%;
+    height: 187px;
+}
+
+.zuricatafooter {
+    width: 53px;
+    height: 100px;
+    margin-top: 35px;
+}
